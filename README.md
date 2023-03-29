@@ -8,7 +8,7 @@ No jogo da forca, tente descobrir as letras correspondentes de cada palavra.
 
 > OBS: As palavras são aleatórias e todas elas correspondem a alguma fruta.
 
-<img src="./src/download.png">
+<img src="./int-python/__pycache__/src/download.png">
 
 
 ## 🚀 Jogo da Advinhação Numérica
@@ -17,7 +17,7 @@ No jogo da advinhação, basta digitar um número entre 1 e 100 e tentar acertar
 
 > OBS: Os números secretos são aleatórios.
 > 
-<img src="./src/download1.png">
+<img src="./int-python/__pycache__/src/download1.png">
 
 
 ### Níveis:
