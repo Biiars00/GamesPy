@@ -1,20 +1,11 @@
 # GamesPy
-Jogos da forca e de adivinhação numérica, em Python.
 
-# TM | Calculator
+**Jogos da forca e de adivinhação numérica**, em Python.
 
-TM Calculator é um projeto baseado no **Teorema de Pitágoras** que permite calcular os lados dos catetos de um triângulo retângulo para encontrar o valor da hipotenusa. 
+## 🚀 Jogo da Forca
 
->OBS: Para todo triângulo retângulo, a soma dos quadrados dos catetos é igual ao quadrado da hipotenusa:
 
-```
-a² = b² + c²
-```
-A aplicação é responsiva, ou seja, podemos utilizá-la em dispositivos de diversos tamanhos.
-
-## 🚀 Ferramentas Utilizadas
-
-<img src="./src/file_type_vscode_icon_130084.png"> <img src="./src/social_html5_html_71.png"> <img src="./src/bootstrap_plain_logo_icon_146619.png"> <img src="./src/javascript_icon_130900.png"> <img src="./src/python_18894.png"> <img src="./src/pocoo_flask_logo_icon_168045.png">
+<img src="./src/file_type_vscode_icon_130084.png">
 
 
 ### Níveis:
@@ -22,11 +13,13 @@ A aplicação é responsiva, ou seja, podemos utilizá-la em dispositivos de div
 + Nível 1 (fácil):         10 tentativas 
 + Nível 2 (intermediário): 5 tentativas
 + Nível 3 (difícil):       3 tentativas
-|   Nível 1   |   Nível 2    |   Nível 3   |
+
+| Nível 1 | Nível 2 | Nível 3 |
 |---------|---------|---------|
 | Fácil   | Médio   | Difícil |
 |---------|---------|---------|
-| 1 Tentativa | 2 Tentativas | 3 Tentativas|
+| 1 Tent. | 2 Tent. | 3 Tent. |
+
 
 ## 🔧 Acesso
 
